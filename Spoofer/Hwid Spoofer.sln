@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E43EAC2D-8A35-45F6-82EC-0B2758AE1E4D}") = "hwid-spoofer", "HwidSpoofer\spoofer.vcxproj", "{F9220CF1-B7D8-4B98-8A09-F7BFF2475538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9220CF1-B7D8-4B98-8A09-F7BFF2475538}.Debug|x64.ActiveCfg = Debug|x64
+		{F9220CF1-B7D8-4B98-8A09-F7BFF2475538}.Debug|x64.Build.0 = Debug|x64
+		{F9220CF1-B7D8-4B98-8A09-F7BFF2475538}.Debug|x86.ActiveCfg = Debug|Win32
+		{F9220CF1-B7D8-4B98-8A09-F7BFF2475538}.Debug|x86.Build.0 = Debug|Win32
+		{F9220CF1-B7D8-4B98-8A09-F7BFF2475538}.Release|x64.ActiveCfg = Release|x64
+		{F9220CF1-B7D8-4B98-8A09-F7BFF2475538}.Release|x64.Build.0 = Release|x64
+		{F9220CF1-B7D8-4B98-8A09-F7BFF2475538}.Release|x86.ActiveCfg = Release|Win32
+		{F9220CF1-B7D8-4B98-8A09-F7BFF2475538}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A88EDD60-BBD8-4B18-BF33-2ADE1592C4E3}
+	EndGlobalSection
+EndGlobal
